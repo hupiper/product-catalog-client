@@ -3,7 +3,7 @@ metadata:
 projects:
   - name: product-catalog-client
     source:
-      location: 'https://github.com/gnunn-gitops/product-catalog-client.git'
+      location: 'https://github.com/hupiper/product-catalog-client.git'
       type: 'git'
 components:
   - id: che-incubator/typescript/latest

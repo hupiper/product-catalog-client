@@ -42,7 +42,7 @@ class NavComponent extends React.Component {
                     
                     {/*
                     <div className="navbar-header">
-                        <a className="navbar-brand" href="http://github.com/gnunn1/openshift-basic-pipeline">
+                        <a className="navbar-brand" href="http://github.com/hupiper/openshift-basic-pipeline">
                             <img src="http://icons.iconarchive.com/icons/graphicloads/100-flat/24/phone-icon.png" alt="Best Electronics"/><span>  Best Electronics</span>
                         </a>
                     </div>
