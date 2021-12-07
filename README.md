@@ -2,7 +2,7 @@
 
 A simple client CRUD application in React JS which uses Quarkus as the API back-end.
 
-![alt text](https://raw.githubusercontent.com/hupiper/product-catalog-tools/master/docs/img/screenshot.png)
+![alt text](https://raw.githubusercontent.com/hupiper/product-catalog-tools/main/docs/img/screenshot.png)
 
 For complete information about this project, please see the [product-catalog-tools](https://github.com/hupiper/product-catalog-tools) project.
 
